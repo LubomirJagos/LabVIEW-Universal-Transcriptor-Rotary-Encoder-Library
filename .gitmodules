@@ -1,0 +1,6 @@
+[submodule "Arduino libraries"]
+	path = Arduino libraries
+	url = C:/Users/Simon Gurfunkel/Documents/Arduino/libraries/Encoder
+[submodule "Arduino libraries/Encoder"]
+	path = Arduino libraries/Encoder
+	url = C:/Users/Simon Gurfunkel/Documents/Arduino/libraries/Encoder
